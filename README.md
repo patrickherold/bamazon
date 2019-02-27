@@ -7,4 +7,4 @@ Use node bamazonCustomer.js for the front of the store
 
 Use node bamazonManager.js for the backend of the shop.
 
-
+Video Tutorial:  https://youtu.be/So6Z7TlXE-Q
